@@ -1,6 +1,6 @@
 <h4 align="center">
 
-### Hi! I'm Hérson Rezende 😎
+### Hi! I'm Hérson Rezende 👋😎
 ##
 
 - 🖥 Developer.
@@ -11,6 +11,7 @@
   <a href="https://github.com/hrezend">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hrezend&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hrezend&layout=compact&langs_count=7&theme=react"/>
+  </a>
 </div>
 
 <br>  
@@ -30,6 +31,7 @@
   <img align="center" alt="TS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"/>
 </div>
 
+<br>
 <br>
 
 ## Find me around the web 🌎 <img align="left" width="150" height="150" src="https://user-images.githubusercontent.com/62779767/142226752-e9515a8a-df24-490d-8574-3e1bcf021a8d.gif?raw=true">
