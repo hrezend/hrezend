@@ -2,9 +2,9 @@
 
 ### Hi! I'm Hérson Rezende! 😎
 
-- 🖥 Engenheiro de Software.
-- 📚 Especialista em desenvolvimento back-end com NodeJS.
-- 🎯 Futuro desenvolvedor back-end sênior. 
+- 🖥 Desenvolvedor.
+- 📚 Especialista em desenvolvimento back-end.
+- 🎯 Futuro engenheiro de software. 
 
 <div align="center">
   <a href="https://github.com/hrezend">
