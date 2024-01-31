@@ -3,9 +3,9 @@
 ### Hi! I'm Hérson Rezende 👋😎
 ##
 
-- 🖥 Developer.
-- 📚 Specialist in back-end development.
-- 🎯 Future software engineer. 
+- 🖥 Software engineer at @PagBank.
+- 📚 Computer Science Student at UFBA.
+- 🎯 Future specialist in back-end development. 
 
 <div align="center">
   <a href="https://github.com/hrezend">
