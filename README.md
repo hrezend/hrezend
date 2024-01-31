@@ -21,11 +21,13 @@
   <img align="center" alt="JAVA" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"/>
   <img align="center" alt="SPRING" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg"/>
   <img align="center" alt="KOTLIN" width="30" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg"/>
-  <img align="center" alt="DOCKER" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg"/>
-  <img align="center" alt="GIT" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"/>
   <img align="center" alt="TS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"/>
   <img align="center" alt="POSTGRESSQL" width="30" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"/>
   <img align="center" alt="ORACLE" width="30" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg"/>
+  <img align="center" alt="DOCKER" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"/>
+  <img align="center" alt="DOCKER" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"/>
+  <img align="center" alt="DOCKER" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg"/>
+  <img align="center" alt="GIT" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"/>
 </div>
 
 <br>
